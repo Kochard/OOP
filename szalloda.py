@@ -40,7 +40,7 @@ class Foglalas:
 
 class FoglalasKezelo:
     def __init__(self):
-        self.szalloda = Szalloda(nev="Példa Szálloda")
+        self.szalloda = Szalloda(nev="OOP Szálloda")
         self.foglalasok = []
 
     def foglalas(self, szoba, datum):
