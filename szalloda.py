@@ -102,7 +102,7 @@ if __name__ == "__main__":
         elif valasztas == "3":
             kezelo.listaz_foglalasok()
         elif valasztas == "4":
-            print("Viszontlátás!")
+            print("A viszontlátásra!")
             break
         else:
-            print("Érvénytelen választás. Kérlek, válassz újra.")
+            print("Érvénytelen választás. Kérem, válasszon újra.")
